@@ -1,0 +1,41 @@
+body {
+	background-color: #000009;
+	color: #fffff9;
+}
+
+.nav-link {
+	color: #fffff9;
+}
+.nav-link:hover {
+	color: #fbf8cb;
+} 
+
+ul.navbar-nav {
+	display: inline;
+}
+
+.icon {
+  width: 20px;
+  margin: 7px 9px 9px;
+}
+header h1 {
+	margin: 10px 10px;
+}
+
+a.inline {
+	display: inline;
+	padding: 0px;
+}
+
+#donate {
+	width: 150px;
+	height: 50px;
+}
+
+.modal {
+	color: #000020;
+}
+
+.grant {
+	padding: 30px 30px;
+}
